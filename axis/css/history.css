@@ -98,7 +98,7 @@ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, .post-content h1,
 }
 .chapter-headline {
     font-family: "lyon-light";
-    font-size: 165px;
+    font-size: 100px;
     letter-spacing: .02em;
 }
 p.s-text, .wysiwyg ul.s-text, .maps-list-item .openhours p, .maps-list-item .openhours .wysiwyg ul, .wysiwyg .maps-list-item .openhours ul{
